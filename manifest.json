@@ -1,0 +1,7 @@
+{
+  "name": "Coding Videos",
+  "version": "1.0.0",
+  "description": "This extension returns youtube videos based on input",
+  "manifest_version": 3,
+  "author": "Jonathan Jovel & Lisa Louison"
+}
