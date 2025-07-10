@@ -9,9 +9,31 @@
     <!-- <link rel="icon" href="./favicon.ico" type="image/x-icon" /> -->
   </head>
   <body>
+    <header id="header">
+      <div>
+        <h2>LinkedList</h2>
+      </div>
+    </header>
     <main>
-      <h1>Welcome to our extension</h1>
+      <div>
+        <!-- <label for="search" class="rr-sr-only"> Search </label> -->
+        <input
+          tabindex="0"
+          type="text"
+          class=".search"
+          id="search"
+          aria-label="Search"
+          placeholder="Search"
+        />
+        <input type="submit" />
+      </div>
+      <h2>Find it in the list!</h2>
+      <img src="src/assets/computerhands.png" />
+      <div id="resultsContainer"></div>
     </main>
+    <footer>
+      <p>a Jonathan & Lisa Extension</p>
+    </footer>
   </body>
   <script src="script.js"></script>
 </html>
