@@ -1,7 +1,7 @@
-const apiKey = ; //remove api key
+const apiKey = 'AIzaSyA9RA4CVHi0uaMOzIM4z4jCa1uRtZocp_U'; //remove api key
 
 document.getElementById('searchButton').addEventListener('click', (event) => {
-  const query = document.getElementById('searchBar').value;
+  const query = document.getElementById('searchBar').value.toLowerCase();
   fetchData(query);
 });
 

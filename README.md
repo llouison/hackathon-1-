@@ -6,7 +6,7 @@ A class of students have an inumerable amount of video resources shared amongst 
 
 <img src="./src/assets/computerhands.png" height="200px"><br>
 
-[Context switching](https://asana.com/resources/context-switching)(frequently shifting focus between different tasks, projects, or applications) "hurts productivity and increases overwhelm, making us simultaneously more stressed and less productive".
+[Context switching](https://asana.com/resources/context-switching) (frequently shifting focus between different tasks, projects, or applications) "hurts productivity and increases overwhelm, making us simultaneously more stressed and less productive".
 
 ## Solution
 

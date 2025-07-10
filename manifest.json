@@ -1,12 +1,12 @@
 {
-  "name": "Linked Lists",
+  "name": "LinkList",
   "version": "1.0.0",
   "description": "This extension returns youtube videos based on input",
   "manifest_version": 3,
   "author": "Jonathan Jovel & Lisa Louison",
   "action": {
     "default_popup": "index.html",
-    "default_title": "Linked Lists",
+    "default_title": "LinkList",
     "default_icon": "src/assets/magnify.png"
   }
 }
