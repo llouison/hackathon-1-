@@ -1,14 +1,37 @@
-# hackathon-1
+# Hackathon 1
 
-# Resources
+## Problem
 
-- https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
-- https://developer.chrome.com/docs/extensions/get-started/tutorial/debug
-- https://jsonplaceholder.typicode.com/guide/
-- https://www.youtube.com/watch?v=B8Ihv3xsWYs
-- https://developers.google.com/youtube/v3/getting-started
-- https://developers.google.com/youtube/v3/docs/?apix=true
+A class of students have an inumerable amount of video resources shared amongst them. These links are shared via: slack, discord, notes application. But
 
-# Goal
+[Context switching](https://asana.com/resources/context-switching)(frequently shifting focus between different tasks, projects, or applications) "hurts productivity and increases overwhelm, making us simultaneously more stressed and less productive".
+
+## Solution
+
+In an ideal world, students will collaborate on a YouTube playlist where all relevant videos are in one place. But how do you quickly search for the video you want without leaving what you're currently working on???
+
+### LinkList
+
+LinkList is a chrome extension that utilizes the YouTube API to search a playlist for specific videos by keyword and return a list of links to take you straight to them!
+
+## MVP Goal
 
 Build a chrome extension that searches an existing youtube playlist and returns a list of video links as results.
+
+## Challenges
+
+## Stretch Goals
+
+1. Search settings
+   - return links or thumbnails
+2. Order videos
+3. Favorites?
+
+## Resources
+
+- [Chrome Extension Documentation](https://developer.chrome.com/docs/extensions/get-started)
+- [Debugging a Chrome Extension](https://developer.chrome.com/docs/extensions/get-started/tutorial/debug)
+- [Chrome Extension tutorial](https://www.youtube.com/watch?v=B8Ihv3xsWYs)
+- [Test API](https://jsonplaceholder.typicode.com/guide/)
+- [Youtube API tutorial](https://www.youtube.com/watch?v=XEZYadc2o-8)
+- [YouTube API documentation](https://developers.google.com/youtube/v3/docs)
