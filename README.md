@@ -2,7 +2,9 @@
 
 ## Problem
 
-A class of students have an inumerable amount of video resources shared amongst them. These links are shared via: slack, discord, notes application. But
+A class of students have an inumerable amount of video resources shared amongst them (and from their lovely instructors). These links are shared via: slack, discord, notes application, etc.
+
+<img src="./src/assets/computerhands.png" height="200px"><br>
 
 [Context switching](https://asana.com/resources/context-switching)(frequently shifting focus between different tasks, projects, or applications) "hurts productivity and increases overwhelm, making us simultaneously more stressed and less productive".
 
@@ -24,8 +26,10 @@ Build a chrome extension that searches an existing youtube playlist and returns 
 
 1. Search settings
    - return links or thumbnails
-2. Order videos
-3. Favorites?
+   - max results
+   - order videos
+2. Favorites?
+3. Integrate AI to suggest videos on topic
 
 ## Resources
 

@@ -6,6 +6,7 @@
   "author": "Jonathan Jovel & Lisa Louison",
   "action": {
     "default_popup": "index.html",
-    "default_title": "Linked Lists"
+    "default_title": "Linked Lists",
+    "default_icon": "src/assets/magnify.png"
   }
 }
